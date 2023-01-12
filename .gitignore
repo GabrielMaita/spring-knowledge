@@ -1,0 +1,7 @@
+# Project exclude paths
+/spring-di-example/target/
+/spring-hello-service/target/
+target/
+.idea
+
+
